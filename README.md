@@ -13,6 +13,3 @@ Email Me 👉 📬 Feel free to reach out at **patelrajshekhar6@gmail.com** for 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rajshekharpatel&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
