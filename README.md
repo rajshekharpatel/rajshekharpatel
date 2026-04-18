@@ -2,7 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=RAJ%20SHEKHAR%20PATEL&fontSize=80&animation=fadeIn&fontAlignY=35&fontStyle=bold&desc=☁️%20CLOUD%20ARCHITECT%20%7C%20♾️%20DEVOPS%20ENGINEER&descSize=20&descAlignY=60" width="100%" />
 </p>
 
-
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀_VISITORS-blueviolet?style=flat-square">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square&label=%20" alt="Visitor Count" />
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=❯+FRONTEND+DEVELOPER;❯+B.TECH+IT+STUDENT;❯+UI/UX+DESIGNER;❯+CREATING+IDEAS+INTO+CODE" alt="Typing Animation" /></a>
@@ -47,16 +50,6 @@
 
 ---
 
-## 📊 Performance Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&title_color=38B2AC" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&title_color=38B2AC" height="180px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&area=true&hide_border=true&color=38B2AC" width="100%" />
-</p>
 
 ---
 
