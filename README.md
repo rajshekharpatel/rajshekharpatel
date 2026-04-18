@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=RAJ%20SHEKHAR%20PATEL&fontSize=80&animation=fadeIn&fontAlignY=35&fontStyle=bold&desc=☁️%20CLOUD%20ARCHITECT%20%7C%20♾️%20DEVOPS%20ENGINEER&descSize=20&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=RAJ%20SHEKHAR%20PATEL&fontSize=80&animation=fadeIn&fontAlignY=35&fontStyle=bold&desc=⚡%20FRONTEND%20VISIONARY%20%7C%20👨‍💻%20INTERFACE%20INNOVATOR&descSize=20&descAlignY=60" width="100%" />
 </p>
 
 <p align="center">
