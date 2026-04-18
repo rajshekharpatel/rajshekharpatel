@@ -1,15 +1,74 @@
 # 💫 Hi 👋, I'm Raj Shekhar Patel
 **Aspiring Cloud & DevOps Engineer | B.Tech IT Student | Building & Learning in Public**
 
-Email Me 👉 📬 Feel free to reach out at **patelrajshekhar6@gmail.com** for collaborations, projects, or any opportunities.. 😊😊
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=RAJ%20SHEKHAR%20PATEL&fontSize=80&animation=fadeIn&fontAlignY=35&fontStyle=bold&desc=☁️%20CLOUD%20ARCHITECT%20%7C%20♾️%20DEVOPS%20ENGINEER&descSize=20&descAlignY=60" width="100%" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rajshekhar_patel_?igsh=bmJsM3Jxa2J0cGpw) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/raj-shekhar-patel-332782329?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patelrajshekhar6@gmail.com) 
+<p align="center">
+  <img src="https://img.shields.io/badge/LIVE%20TRAFFIC-MONITOR-00F2FF?style=for-the-badge&logo=statuspage&logoColor=black" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=TOTAL+VISITORS&color=38B2AC&style=for-the-badge&logo=eye&logoColor=white" />
+  <img src="https://img.shields.io/badge/SYSTEM-OPERATIONAL-00FF41?style=for-the-badge&logo=docsdotrs&logoColor=black" />
+</p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=❯+BUILDING+SCALABLE+INFRA;❯+MASTERING+KUBERNETES;❯+AUTOMATING+CI%2FCD+PIPELINES;❯+DESIGNING+THE+FUTURE" alt="Typing Animation" /></a>
+</p>
 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139)
+## 👨‍🚀 Mission Control
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<table align="center" border="0">
+  <tr>
+    <td width="60%" style="vertical-align: top; border: none;">
+      <p align="left">
+        <img src="https://raw.githubusercontent.com/mynameissteve/mynameissteve/master/assets/images/terminal.gif" width="20px"> <b>System Access: Root</b><br><br>
+        I'm <b>Raj</b>, a Cloud & DevOps enthusiast turning manual chaos into automated perfection. I build systems that don't just work—they scale.
+      </p>
+      <p>
+        ⚡ <b>Neural Core:</b> AWS, Docker, Terraform & Kubernetes<br>
+        🛡️ <b>Shields:</b> Cloud Security & Infrastructure Hardening<br>
+        🎓 <b>Learning:</b> Real-time Scalability & SRE practices
+      </p>
+    </td>
+    <td width="40%" align="center" style="border: none;">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZtZ2p6Y2E5ZzR3Z3p6ZDV6Z3p6ZDV6Z3p6ZDV6Z3p6ZDV6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMc7wS6zKx9eE/giphy.gif" width="240px" style="border-radius: 20px; border: 2px solid #38B2AC; box-shadow: 0 0 25px rgba(56, 178, 172, 0.6);" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Infrastructure Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,linux,git,githubactions,java,js,react,nodejs,tailwind,vite,figma,ps&theme=dark" />
+</p>
+
+---
+
+## 📊 Performance Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&title_color=38B2AC" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&title_color=38B2AC" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&area=true&hide_border=true&color=38B2AC" width="100%" />
+</p>
+
+---
+
+## 🌐 Signal Reach
+
+<p align="center">
+<a href="https://linkedin.com/in/raj-shekhar-patel-332782329"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://instagram.com/rajshekhar_patel_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+<a href="mailto:patelrajshekhar6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" />
+</p>
