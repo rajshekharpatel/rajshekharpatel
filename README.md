@@ -11,29 +11,16 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=❯+FRONTEND+DEVELOPER;❯+B.TECH+IT+STUDENT;❯+UI/UX+DESIGNER;❯+CREATING+IDEAS+INTO+CODE" alt="Typing Animation" /></a>
 </p>
 
----
 
-## 👨‍🚀 Mission Control
+  <img src="https://raw.githubusercontent.com/mynameissteve/mynameissteve/master/assets/images/terminal.gif" width="20px"> 
+  I’m <b>Raj</b> — a <b>Frontend Engineer & Interface Designer</b> crafting seamless digital experiences. I turn ideas into intuitive, scalable interfaces that don’t just look good — they perform.
+</p>
 
-<table align="center" border="0">
-  <tr>
-    <td width="60%" style="vertical-align: top; border: none;">
-      <p align="left">
-        <img src="https://raw.githubusercontent.com/mynameissteve/mynameissteve/master/assets/images/terminal.gif" width="20px"> <b>System Access: Root</b><br><br>
-        I'm <b>Raj</b>, a Cloud & DevOps enthusiast turning manual chaos into automated perfection. I build systems that don't just work—they scale.
-      </p>
-      <p>
-        ⚡ <b>Neural Core:</b> HTML, CSS, React & Node.js<br>
-        🛡️ <b>Shields:</b> Git, GitHub & Vercel Deployment<br>
-        🎨 <b>Creative:</b> Figma & DaVinci Resolve
-      </p>
-    </td>
-    <td width="40%" align="center" style="border: none;">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZtZ2p6Y2E5ZzR3Z3p6ZDV6Z3p6ZDV6Z3p6ZDV6Z3p6ZDV6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMc7wS6zKx9eE/giphy.gif" width="240px" style="border-radius: 20px; border: 2px solid #38B2AC; box-shadow: 0 0 25px rgba(56, 178, 172, 0.6);" />
-    </td>
-  </tr>
-</table>
-
+<p>
+  ⚡ <b>Neural Core:</b> HTML, CSS, JavaScript, React & Node.js<br>
+  🛡️ <b>Shields:</b> Git, GitHub, Vercel & Deployment Automation<br>
+  🎨 <b>Creative:</b> Figma & DaVinci Resolve
+</p>
 ---
 
 ## 🛠️ Integrated Tech Stack
