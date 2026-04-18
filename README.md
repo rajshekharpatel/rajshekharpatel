@@ -1,18 +1,11 @@
-# 💫 Hi 👋, I'm Raj Shekhar Patel
-**Aspiring Cloud & DevOps Engineer | B.Tech IT Student | Building & Learning in Public**
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=RAJ%20SHEKHAR%20PATEL&fontSize=80&animation=fadeIn&fontAlignY=35&fontStyle=bold&desc=☁️%20CLOUD%20ARCHITECT%20%7C%20♾️%20DEVOPS%20ENGINEER&descSize=20&descAlignY=60" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LIVE%20TRAFFIC-MONITOR-00F2FF?style=for-the-badge&logo=statuspage&logoColor=black" />
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=TOTAL+VISITORS&color=38B2AC&style=for-the-badge&logo=eye&logoColor=white" />
-  <img src="https://img.shields.io/badge/SYSTEM-OPERATIONAL-00FF41?style=for-the-badge&logo=docsdotrs&logoColor=black" />
-</p>
+
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=❯+BUILDING+SCALABLE+INFRA;❯+MASTERING+KUBERNETES;❯+AUTOMATING+CI%2FCD+PIPELINES;❯+DESIGNING+THE+FUTURE" alt="Typing Animation" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=❯+FRONTEND+DEVELOPER;❯+B.TECH+IT+STUDENT;❯+UI/UX+DESIGNER;❯+CREATING+IDEAS+INTO+CODE" alt="Typing Animation" /></a>
 </p>
 
 ---
@@ -27,9 +20,9 @@
         I'm <b>Raj</b>, a Cloud & DevOps enthusiast turning manual chaos into automated perfection. I build systems that don't just work—they scale.
       </p>
       <p>
-        ⚡ <b>Neural Core:</b> AWS, Docker, Terraform & Kubernetes<br>
-        🛡️ <b>Shields:</b> Cloud Security & Infrastructure Hardening<br>
-        🎓 <b>Learning:</b> Real-time Scalability & SRE practices
+        ⚡ <b>Neural Core:</b> HTML, CSS, React & Node.js<br>
+        🛡️ <b>Shields:</b> Git, GitHub & Vercel Deployment<br>
+        🎨 <b>Creative:</b> Figma & DaVinci Resolve
       </p>
     </td>
     <td width="40%" align="center" style="border: none;">
@@ -40,10 +33,16 @@
 
 ---
 
-## 🛠️ Infrastructure Stack
+## 🛠️ Integrated Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,linux,git,githubactions,java,js,react,nodejs,tailwind,vite,figma,ps&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,npm,vite&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=figma,git,github,java,c,vercel&theme=dark" />
+  <br>
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=google-gemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/DaVinci%20Resolve-000000?style=for-the-badge&logo=davinciresolve&logoColor=white" />
 </p>
 
 ---
