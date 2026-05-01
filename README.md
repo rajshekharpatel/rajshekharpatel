@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/🚀_VISITORS-blueviolet?style=flat-square">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square&label=%20" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=rajshekharpatel&color=blueviolet&style=flat-square&label=%20" alt="Visitor Count" />
 </p>
 
 <p align="center">
