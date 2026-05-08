@@ -28,7 +28,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,npm,vite&theme=dark" />
   <br>
-  <img src="https://skillicons.dev/icons?i=figma,git,github,java,c,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=figma,git,github,java,c,vercel,canva&theme=dark" />
   <br>
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=google-gemini&logoColor=white" />
