@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🚀_VISITORS-blueviolet?style=flat-square">
-  <img src="https://komarev.com/ghpvc/?username=rajshekharpatel&color=blueviolet&style=flat-square&label=%20" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=rajshekharpatel&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
