@@ -3,7 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajshekharpatel&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img
+    src="https://viewcounter.live/rajshekharpatel?label=Unique%20Visitors&unique=true"
+    alt="Unique Visitors"
+  />
 </p>
 
 <p align="center">
