@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=❯+FRONTEND+DEVELOPER;❯+B.TECH+IT+STUDENT;❯+CREATING+IDEAS+INTO+CODE" alt="Typing Animation" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=❯+FULL-STACK+DEVELOPER;❯+B.TECH+IT+STUDENT;❯+CREATING+IDEAS+INTO+CODE" alt="Typing Animation" /></a>
 </p>
 
 
